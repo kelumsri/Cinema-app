@@ -1,0 +1,27 @@
+- booking_id: "001"
+  film_name: "hero"
+  seat_numbers : B7,B8
+  date: 2024-04-16
+  time: 10.30am - 12.30pm
+  user_id: "112"
+
+- booking_id: "002"
+  film_name: "maharani"
+  seat_numbers :  C5,C6
+  date: 2024-04-16
+  time: 04.30pm - 06.30pm
+  user_id: "112"
+
+- booking_id: "003"
+  film_name: "maharani"
+  seat_numbers :  B8,A7
+  date: 2024-04-13
+  time: 07.30pm - 09.30pm
+  user_id: "112"
+
+- booking_id: "004"
+  film_name: "maharani"
+  seat_numbers :  B3,B4
+  date: 2024-04-13
+  time: 07.30pm - 09.30pm
+  user_id: "112"
