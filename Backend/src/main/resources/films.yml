@@ -1,0 +1,71 @@
+- name: "Blade Runner"
+  Id: 1
+  type: "Action"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJo2WhInVSM5SDwBfLdiWab1aJH32m2UbYxxJVkH2YuA&s"
+  ticketPrice: 750
+
+- name: "house"
+  ID: 2
+  type: "Drama"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zrt9-GaWCfwrk5eEAGvYnS7jCmeynCVnmfKhZmvRAw&s"
+  ticketPrice: 700
+
+- name: "hero"
+  ID: 3
+  type: "Comedy"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkHCCwNJCQrbk9kQVd6_BQTt3gkKzKxvtq-0ZvwEy_nw&s"
+  ticketPrice: 750
+
+- name: "maharani"
+  ID: 4
+  type: "Comedy"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV5jmspD1rxhWy-JRerdCZzxqpcyvB9AZ4woj8mh3m7ambIoaQdg2h8lQDCiFegZ-xMo&usqp=CAU"
+  ticketPrice: 700
+
+- name: "dead"
+  ID: 5
+  type: "Comedy"
+  image: "https://lh3.googleusercontent.com/proxy/mIm05Q9T9GmLE31YihMWyQidocFkgRhV_jnU7zmemKfXyIJzf57Qql9hkDc8Aa9XFmaEl3tlsttWGZrMuq4LuA"
+  ticketPrice: 650
+
+- name: "boss"
+  ID: 6
+  type: "Comedy"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUznTE2jLGZA7rsaGHEBq86LCAWCHmGk6GciRkhCYKw&s"
+  ticketPrice: 650
+
+- name: "pool"
+  ID: 7
+  type: "Comedy"
+  image: "https://m.media-amazon.com/images/M/MV5BMDdlODdmODItZDAxNi00MjExLWFjOGItMGY3MzFjYzU4NDM3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg"
+  ticketPrice: 650
+
+- name: "power"
+  ID: 8
+  type: "Comedy"
+  image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a63abf0-35e6-48bf-b030-8df29b1d9180/dgip7ur-49006b59-5a5b-455d-be74-7152f20ba9dc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNjNhYmYwLTM1ZTYtNDhiZi1iMDMwLThkZjI5YjFkOTE4MFwvZGdpcDd1ci00OTAwNmI1OS01YTViLTQ1NWQtYmU3NC03MTUyZjIwYmE5ZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mqyvvq-v-LESQDcpGJ6Ja-1Op3Gq_RfAKdIG8rXCDVs"
+  ticketPrice: 850
+
+- name: "village"
+  ID: 9
+  type: "Comedy"
+  image: "https://upload.wikimedia.org/wikipedia/en/5/5a/The_Painter_Poster.jpg"
+  ticketPrice: 650
+
+- name: "country"
+  ID: 10
+  type: "Comedy"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70NX66yHaQjVbrMTJsM_P_bc4clQXhrDzZ24iKLQRtQ&s"
+  ticketPrice: 850
+
+- name: "country"
+  ID: 10
+  type: "Comedy"
+  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktD7M33rWSsfWzlUsoC7zolBfkGsf437X8GmjLQOOYRzQnk9N0dSXdYdVM91Gt2ZTNcw&usqp=CAU"
+  ticketPrice: 650
+
+- name: "country"
+  ID: 10
+  type: "Comedy"
+  image: "https://cdn.moviefone.com/image-assets/748783/wGACDc9iXo5QICWV709agnYcInI.jpg?d=360x540&q=60"
+  ticketPrice: 700
